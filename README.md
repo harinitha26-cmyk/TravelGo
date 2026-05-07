@@ -11,17 +11,15 @@ hotels — with real-time booking confirmation via AWS SNS.
   📧 **Real-Time Confirmation** — Booking alerts via AWS SNS (email/SMS)
   📊 **User Dashboard** — View and manage all past bookings
 
-🛠️ Tech Stack - 
-| Layer | Technology |
-
-| Backend | Python, Flask |
-| Frontend | HTML, CSS (Jinja2 Templates) |
-| Database | AWS DynamoDB |
-| Notifications | AWS SNS |
-| Cloud | AWS (EC2, DynamoDB, SNS) |
+🛠️ Tech Stack -
+      Backend - Python, Flask
+      Frontend - HTML, CSS (Jinja2 Templates) 
+      Database - AWS DynamoDB 
+      Notifications - AWS SNS 
+      Cloud - AWS (EC2, DynamoDB, SNS) 
 
 📁 Project Structure - 
-  TravelGo/
+   TravelGo/
    └── zoroo/
    ├── app.py                 
    └── templates/
@@ -77,10 +75,10 @@ python app.py
 Visit `http://localhost:5000` in your browser
 
 📋 Requirements - 
-    flask
-    boto3
+           flask
+           boto3
 
 Author - 
-Harinitha V.N
-B.Tech [Computer Science and Business Systems]
-SSM Institute of Engineering and Technology, Dindigul
+    Harinitha V.N
+    B.Tech [Computer Science and Business Systems]
+    SSM Institute of Engineering and Technology, Dindigul
