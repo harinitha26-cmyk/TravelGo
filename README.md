@@ -18,22 +18,21 @@ hotels — with real-time booking confirmation via AWS SNS.
       Notifications - AWS SNS 
       Cloud - AWS (EC2, DynamoDB, SNS) 
 
-📁 Project Structure - 
-   TravelGo/
-   └── zoroo/
-   ├── app.py                 
-   └── templates/
-   ├── index.html       
-   ├── login.html         
-   ├── register.html      
-   ├── dashboard.html     
-   ├── bus.html          
-   ├── train.html         
-   ├── flight.html        
-   ├── hotels.html        
-   ├── seat.html          
-   ├── payment.html      
-   └── ticket.html
+TravelGo/
+└── zoroo/
+    ├── app.py               
+    └── templates/
+        ├── index.html         
+        ├── login.html         
+        ├── register.html      
+        ├── dashboard.html     
+        ├── bus.html           
+        ├── train.html         
+        ├── flight.html        
+        ├── hotels.html        
+        ├── seat.html          
+        ├── payment.html       
+        └── ticket.html        
 ---
 
 ⚙️ Setup & Installation - 
